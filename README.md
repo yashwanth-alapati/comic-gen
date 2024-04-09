@@ -4,4 +4,4 @@ Gist of what the project is about:
 
 We have built a Retreival Augmented Generation project using MongoDB Atlas search. For inference we have employed quantized mistral 7b model. We have use stability AI's latest diffusion model
 
-If you have a story, or a book. You can ingest it into the Vecotr databse and our RAG model will generate fan fiction comics.
+If you have a story, or a book. You can ingest it into the Vecotr databse and our RAG model will generate fan fiction comics. Scroll down the ipynb notebook to see the end result
